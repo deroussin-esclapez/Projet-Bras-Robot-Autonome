@@ -15,7 +15,7 @@ La séance a débuté par un échange avec M. Lebreton au sujet du projet. Les c
 ![Roulement](roulement.png)
 *Figure 1 : modèle 3D du roulement*
 
-![Carte](carte_moteur.png)
+![Carte](images/carte_moteur.png)
 *Figure 2 : modèle 3D de la carte de commande des moteurs*
 
 ## 3. Bilan
