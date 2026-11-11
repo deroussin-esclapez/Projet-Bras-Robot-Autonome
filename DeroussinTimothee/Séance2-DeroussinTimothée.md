@@ -32,7 +32,7 @@ Sur sa face supérieure, il comporte deux supports verticaux percés, qui servir
 
 *Figure 2 : plateau tournant, face supérieure (supports de fixation du bras)*
 
-Fusion n'était pas à jour sur mon ordinateur certaines cotes (notamment celles qui accueilleront les vis moteur) devront donc être vérifié avant d'être intégrée à l'assemblage.
+Fusion n'était pas à jour sur mon ordinateur, certaines cotes (notamment celles qui accueilleront les vis moteur) devront donc être vérifiées avant d'être intégrées à l'assemblage.
 
 ## Partie 2 : première version du bâti
 
@@ -42,7 +42,7 @@ J'ai ensuite commencé la modélisation du bâti. La première version était un
 
 *Figure 3 : première version du bâti, réalisée en une seule pièce*
 
-Au cours de la modélisation, un problème est apparu : avec un bâti d'une seule pièce, l'intérieur est fermé et il devient impossible d'accéder aux vis pour fixer le plateau tournant sur le roulement lazy suzanne. Le montage du robot ne seraient donc pas réalisables.
+Au cours de la modélisation, un problème est apparu : avec un bâti d'une seule pièce, l'intérieur est fermé et il devient impossible d'accéder aux vis pour fixer le plateau tournant sur le roulement lazy suzanne. Le montage du robot ne serait donc pas réalisable.
 
 Cette version a donc été abandonnée et le bâti a été repris à zéro.
 
@@ -54,12 +54,12 @@ J’ai commencé à modéliser la première partie : le bas du bâti. C’est un
 
 ![Bas du bâti](images/bati_bas.png)
 
-*Figure 4 : bas du bâti, avec les plots d'emboîtement*
+*Figure 4 : bas du bâti, avec les ergots d'emboîtement*
 
-La modélisation des parties supérieures du bâti seront l'objet de la prochaines séance.
+La modélisation des parties supérieures du bâti sera l'objet de la prochaine séance.
 
 ## Bilan et suite
 
 Le plateau tournant est terminé mais nécessite une vérification. La première version du bâti a mis en évidence un problème d'accessibilité pour le montage, ce qui a conduit à une nouvelle conception en plusieurs parties emboîtables, dont le bas n'est pas encore totalement réalisé.
 
-La prochaine étape sera de finir le bas du bati, de modéliser les parties supérieures du bâti, puis d'assembler le bâti avec le roulement et le plateau tournant afin de vérifier que l'ensemble s'ajuste correctement.
+La prochaine étape sera de finir le bas du bâti, de modéliser les parties supérieures du bâti, puis d'assembler le bâti avec le roulement et le plateau tournant afin de vérifier que l'ensemble s'ajuste correctement.
