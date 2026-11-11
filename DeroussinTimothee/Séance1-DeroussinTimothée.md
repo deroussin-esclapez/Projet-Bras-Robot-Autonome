@@ -28,7 +28,7 @@ Nous n'avons trouvé aucun modèle 3D correspondant exactement à notre roulemen
 
 La précision de ce modèle est importante, car c'est sur lui que seront dessinées la base fixe et la plateforme rotative.
 
-![Roulement](roulement.png)
+![Roulement](images/roulement.png)
 
 *Figure 1 : modèle 3D du roulement Lazy Susan (modélisé à partir de mesures)*
 
@@ -40,7 +40,7 @@ Comme pour le roulement, aucun modèle 3D de cette carte n'était disponible. Je
 
 Ce modèle permettra de prévoir dans la base un emplacement adapté pour la carte.
 
-![Carte](carte.png)
+![Carte](images/carte_moteur.png)
 
 *Figure 2 : modèle 3D de la carte de commande des servomoteurs (d'après les dimensions du vendeur)*
 
