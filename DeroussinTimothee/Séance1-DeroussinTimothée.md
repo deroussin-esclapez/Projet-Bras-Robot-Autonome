@@ -1,6 +1,6 @@
 # Rapport de séance – Projet bras robotique autonome
 
-| | |
+| | 
 |---|---|
 | **Date** | Vendredi 6 novembre 2026 |
 | **Durée** | 4 heures |
