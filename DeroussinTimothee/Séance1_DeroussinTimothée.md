@@ -12,7 +12,7 @@ La séance a débuté par un échange avec M. Lebreton au sujet du projet. Les c
 - **Roulement  lazy Susan :** modélisé à partir de mesures relevées sur la pièce réelle. Et ajout des liaisons sur la pièce. Il assure la rotation de la plateforme sur laquelle repose le bras.
 - **Carte de commande des servomoteurs :** modélisée à partir des dimensions fournies sur AliExpress, afin de prévoir son emplacement et sa fixation sur le bâti.
 
-![Roulement](roulement.png)
+![Roulement](images/roulement.png)
 *Figure 1 : modèle 3D du roulement*
 
 ![Carte](images/carte_moteur.png)
