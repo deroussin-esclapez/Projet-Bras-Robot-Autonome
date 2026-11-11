@@ -22,13 +22,13 @@ Sur sa face inférieure, il comporte :
 - un **logement circulaire** dans lequel vient se placer le roulement, avec quatre trous de fixation correspondant à ceux du roulement ;
 - un **moyeu central** percé, destiné à recevoir l'entraînement de la rotation du plateau.
 
-![Plateau tournant – face inférieure](plateau_dessous.png)
+![Plateau tournant – face inférieure](images/plateau_dessous.png)
 
 *Figure 1 : plateau tournant, face inférieure (logement du roulement et moyeu central)*
 
 Sur sa face supérieure, il comporte deux **supports verticaux** percés, qui serviront à fixer le premier moteur du bras.
 
-![Plateau tournant – face supérieure](plateau_dessus.png)
+![Plateau tournant – face supérieure](images/plateau_dessus.png)
 
 *Figure 2 : plateau tournant, face supérieure (supports de fixation du bras)*
 
@@ -38,7 +38,7 @@ Fusion n'était pas à jour sur mon ordinateur certaines cotes (notamment celles
 
 J'ai ensuite commencé la modélisation du bâti. La première version était une pièce unique de forme cylindrique, comportant une paroi extérieure et une couronne intérieure percée destinée à supporter le roulement et le plateau tournant.
 
-![Première version du bâti](bati_v1.png)
+![Première version du bâti](images/bati_v1.png)
 
 *Figure 3 : première version du bâti, réalisée en une seule pièce*
 
@@ -52,7 +52,7 @@ Pour résoudre ce problème, le bâti est maintenant conçu en **plusieurs parti
 
 J’ai commencé à modéliser la première partie : le bas du bâti. C’est un disque équipé d’ergots répartis sur deux cercles. Ces ergots servent à emboîter les parties supérieures du bâti, ce qui permet de les positionner et de les maintenir en place, tout en gardant un montage et un démontage simples.
 
-![Bas du bâti](bati_bas.png)
+![Bas du bâti](images/bati_bas.png)
 
 *Figure 4 : bas du bâti, avec les plots d'emboîtement*
 
