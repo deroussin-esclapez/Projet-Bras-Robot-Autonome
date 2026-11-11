@@ -19,14 +19,14 @@ Le plateau tournant est un disque qui fait le lien entre le roulement Lazy Susan
 
 Sur sa face inférieure, il comporte :
 
-- un **logement circulaire** dans lequel vient se placer le roulement, avec quatre trous de fixation correspondant à ceux du roulement ;
-- un **moyeu central** percé, destiné à recevoir l'entraînement de la rotation du plateau.
+- un logement circulaire dans lequel vient se placer le roulement, avec quatre trous de fixation correspondant à ceux du roulement ;
+- un moyeu central percé, destiné à recevoir l'entraînement de la rotation du plateau.
 
 ![Plateau tournant – face inférieure](images/plateau_dessous.png)
 
 *Figure 1 : plateau tournant, face inférieure (logement du roulement et moyeu central)*
 
-Sur sa face supérieure, il comporte deux **supports verticaux** percés, qui serviront à fixer le premier moteur du bras.
+Sur sa face supérieure, il comporte deux supports verticaux percés, qui serviront à fixer le premier moteur du bras.
 
 ![Plateau tournant – face supérieure](images/plateau_dessus.png)
 
@@ -42,7 +42,7 @@ J'ai ensuite commencé la modélisation du bâti. La première version était un
 
 *Figure 3 : première version du bâti, réalisée en une seule pièce*
 
-Au cours de la modélisation, un problème est apparu : avec un bâti d'une seule pièce, l'intérieur est fermé et il devient **impossible d'accéder aux vis** pour fixer le plateau tournant sur le roulement lazy suzanne. Le montage du robot ne seraient donc pas réalisables.
+Au cours de la modélisation, un problème est apparu : avec un bâti d'une seule pièce, l'intérieur est fermé et il devient impossible d'accéder aux vis pour fixer le plateau tournant sur le roulement lazy suzanne. Le montage du robot ne seraient donc pas réalisables.
 
 Cette version a donc été abandonnée et le bâti a été repris à zéro.
 
