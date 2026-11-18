@@ -52,7 +52,7 @@ Les deux mâchoires se ferment donc en même temps et de manière symétrique, a
 Après réception des moteurs, nous nous sommes rendu compte que le plateau tournant ne pouvait pas être vissé sur le moteur qui l'entraîne. J'ai donc modifié la pièce :
 
 - les trous de fixation traversent maintenant tout le plateau, ce qui permet de passer les vis depuis le dessus ;
-- les diamètres des trous ont été ajustés, après avoir été mesurées sur les pièces reçues.
+- les diamètres des trous ont été ajustés, après avoir été mesurés sur les pièces reçues.
 
 ![Plateau tournant modifié](images/plateau_v2.png)
 
@@ -92,4 +92,4 @@ Cet assemblage permet de vérifier que les pièces s'emboîtent correctement et 
 
 La réception du matériel a permis de corriger le plateau tournant et de concevoir une nouvelle version du bâti, plus simple, qui permet de fixer tous les composants. La base du robot est maintenant assemblée en 3D, et le principe de fonctionnement de la pince est défini.
 
-L'objectif de la prochaine séance sera de modéliser la pince, de réaliser un assemblage d'ensemble avec les composant réalisés par mon camarade. Et de commencé à imprimer (peut être via des patrons dans un premier temps) pour vérifier que tout s'agence corrèctement.
+L'objectif de la prochaine séance sera de modéliser la pince, de réaliser un assemblage d'ensemble avec les composants réalisés par mon camarade. Et de commencé à imprimer (peut-être via des patrons dans un premier temps) pour vérifier que tout s'agence correctement.
