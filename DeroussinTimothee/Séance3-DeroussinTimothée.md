@@ -17,7 +17,7 @@ L'objectif de cette séance était de poursuivre la conception de la base du rob
 
 En début de séance, nous avons reçu une partie du matériel commandé :
 
-- les 4 servomoteurs et leurs cartes de commande FE-URT-2 ;
+- les 4 servomoteurs et leurs cartes de commande ;
 - les balles que le robot devra ramasser ;
 - des inserts filetés, pour visser les composants ;
 - l'alimentation 12 V ;
