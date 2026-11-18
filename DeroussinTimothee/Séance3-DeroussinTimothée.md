@@ -25,7 +25,7 @@ En début de séance, nous avons reçu une partie du matériel commandé :
 
 Le roulement Lazy Susan avait déjà été reçu auparavant.
 
-![Matériel reçu](images/materiel.jpg)
+![Matériel reçu](images/materiel.jpeg)
 
 *Figure 1 : matériel reçu en début de séance*
 
@@ -43,7 +43,7 @@ Le principe retenu repose sur deux roues dentées qui engrènent l'une avec l'au
 
 Les deux mâchoires se ferment donc en même temps et de manière symétrique, avec un seul moteur. Ce système permet de saisir la balle en la centrant naturellement entre les deux mâchoires.
 
-![Croquis de la pince](images/croquis_pince.jpg)
+![Croquis de la pince](images/croquis_pince.JPG)
 
 *Figure 2 : croquis de principe de la pince à deux roues dentées*
 
