@@ -1,8 +1,8 @@
-# Rapport de séance – Projet bras robotique autonome
+# Rapport de séance 2 – Projet bras robotique autonome
 
 | | |
 |---|---|
-| **Date** | [date de la séance] |
+| **Date** | Mardi 10 novembre 2026 |
 | **Durée** | 4 heures |
 
 ## Objectif de la séance
