@@ -26,19 +26,19 @@ Le logement prévu pour le moteur dans le bâti a été redimensionné afin que 
 
 ### Ouverture sous le moteur
 
-J'ai également créé une ouverture sous le logement du moteur. Elle permet le passage des câbles du moteur vers l'électronique ;
+J'ai également créé une ouverture sous le logement du moteur. Elle permet le passage des câbles du moteur vers l'électronique.
 
 
 ## Partie 2 : nouvel assemblage de la base
 
-J'ai ensuite refait l'assemblage complet de la base avec le bâti modifié :
+J'ai ensuite refait l'assemblage complet de la base avec le bâti modifié.
 
-Cet assemblage permet de vérifier que le moteur est bien placé et que son axe est aligné avec le roulement et le plateau et bien en contact avec celui-ci.
+Cet assemblage permet de vérifier que le moteur est bien placé et que son axe est aligné avec le roulement et le plateau et bien en contact avec le plateau.
 
 ![Moteur encastré dans le bâti](images/bati_moteur_encastre.png)
 ![Assemblage de la base](images/assemblage_v2.png)
 
-*Figure 2,3 : assemblage de la base avec le bâti modifié*
+*Figure 2 et 3 : assemblage de la base avec le bâti modifié*
 
 ## Partie 3 : lancement de l'impression du plateau tournant
 
@@ -52,4 +52,4 @@ Le plateau tournant étant validé, j'ai préparé son fichier d'impression dans
 
 Le bâti est maintenant adapté au moteur réel, avec un logement ajusté et une ouverture pour les câbles qui garantit aussi l'alignement du moteur avec le roulement et le plateau. L'assemblage de la base a été mis à jour et l'impression du plateau tournant est lancée.
 
-La prochaine étape sera de vérifier le plateau imprimé sur les composants réels, de corriger les cotes si nécessaire, puis d'imprimer le bâti. Ainsi que le bras.
+La prochaine étape sera de vérifier le plateau imprimé sur les composants réels, de corriger les cotes si nécessaire, puis d'imprimer le bâti ainsi que le bras.
